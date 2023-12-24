@@ -1,3 +1,16 @@
+## Challenge
+
+**您是一位BadBuyer，試著成為 Shop Owner 並取回 Shop 合約中的所有餘額，最後通過Test**
+
+**通關條件：**
+- 成為 shop owner
+- 取回 shop 合約中的所有餘額
+
+**可修改地方** 
+- src/Buyer.sol
+- src/Shop.t.sol  testAttack()
+
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
